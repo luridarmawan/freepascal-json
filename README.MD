@@ -122,8 +122,11 @@ Dari sini kemudian kita menggunakan `TJSONEnum` untuk membantu mengurai data lar
 
 Akan bisa dilihat juga variasi cara membaca data dengan `event.Strings` atau `event.FindPath('speaker[0].name').AsString`. Silahkan disesuaikan penggunaannya.
 
-Dan .... seperti yang terlihat, mudah khan cara membaca data JSON di FreePascal/Lazarus.
+Hasil akhirnya nanti kurang lebih akan seperti ini:
+![hasil](media/result.png)
 
-Kode sumber bisa dilihat dari repositori [https://github.com/luridarmawan/freepascal-json](https://github.com/luridarmawan/freepascal-json)
+Nahhh .... seperti yang terlihat, **mudah** khan cara membaca **data JSON** di FreePascal/Lazarus.
+
+Artikel repositori ini telah tayang di situs [Komunitas Pascal Indonesia](https://www.pascal-id.org/news/370/freepascal-json).
 
 ## End.
